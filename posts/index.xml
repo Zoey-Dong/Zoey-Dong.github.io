@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Zoye</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Zoye</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Dec 2020 16:35:40 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>/posts/first/</link>
+      <pubDate>Thu, 24 Dec 2020 16:35:40 +0800</pubDate>
+      
+      <guid>/posts/first/</guid>
+      <description>This is the first demo | head |</description>
+    </item>
+    
+  </channel>
+</rss>
